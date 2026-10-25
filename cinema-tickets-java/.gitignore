@@ -1,0 +1,28 @@
+# Maven build output
+target/
+
+# Java compiled files
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary
+*.log
+*.tmp
+*.swp
+*~
+
+# Local files
+.env
+.env.*
+!.env.example
